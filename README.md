@@ -1,3 +1,8 @@
+*Inorder to login as an Admin email:-admin@gmail.com password:- 123456
+As a user you can sign up or login with below credentials:-
+email:- ashan@gmail.com
+password:- 123456
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
